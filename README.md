@@ -1,4 +1,4 @@
-![IMG2](https://user-images.githubusercontent.com/89351514/138189850-6138e376-222c-42d7-86f1-442f4c565b26.jpg)
+
 - 👋 Hi, I’m Sebastiano Minotti
 - 👀 I’m interestedin  : cooked,informatics,program,soccer,my dog oliver (a beautiful German Shepherd)
 - 🌱 I’m currently learning ... HTML,CSS,JS,JQUERY,VUEJS
@@ -6,6 +6,9 @@
 - 📫 How to reach me ... MY MAIL seba.minotti@gmail.com
    
   CURRENTLY STUDYNG :
+  
+  ![html-digit-latina-web-sviluppo](https://user-images.githubusercontent.com/89351514/138189958-73192624-54ea-4daf-b9dc-70c41754ad05.png)
+
 
 
 
