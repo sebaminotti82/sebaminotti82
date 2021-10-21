@@ -7,7 +7,8 @@
    
   CURRENTLY STUDYNG :
   
-  ![html-digit-latina-web-sviluppo](https://user-images.githubusercontent.com/89351514/138189958-73192624-54ea-4daf-b9dc-70c41754ad05.png)![vuejs](https://user-images.githubusercontent.com/89351514/138190049-0c81eb0b-9e3b-4be6-887a-e7f6be3f0dfc.png)
+  ![html-digit-latina-web-sviluppo](https://user-images.githubusercontent.com/89351514/138189958-73192624-54ea-4daf-b9dc-70c41754ad05.png),![vuejs](https://user-images.githubusercontent.com/89351514/138190156-e08ba5cb-fecc-46fd-8f68-eeb5652b2fdc.png)
+
 
 
 
